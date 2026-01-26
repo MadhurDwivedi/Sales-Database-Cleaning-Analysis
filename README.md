@@ -1,4 +1,5 @@
 # 📊 SalesPulse – Python Data Cleaning Analysis
+![Background Image](https://github.com/MadhurDwivedi/SalesPulse-Python_Data_Cleaning_Analysis/blob/main/Background%20Image.jpg)
 ## 📌 Project Objective
 The objective of this project is to build an automated data cleaning and preprocessing application using Python that handles duplicate records, missing values, and data quality issues in sales datasets.
 
